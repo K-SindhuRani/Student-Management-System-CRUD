@@ -45,4 +45,3 @@ A full-stack Student Management System built using Spring Boot, Spring Data JPA,
 
 ---
 
-## Project Structure
