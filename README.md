@@ -57,25 +57,6 @@ src
 │   └── application.properties
 ```
 
----
-
-## Database Configuration
-
-Update the `application.properties` file:
-
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/studentdb
-spring.datasource.username=root
-spring.datasource.password=YOUR_PASSWORD
-
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-
-server.port=8081
-```
-
----
-
 ## How to Run
 
 1. Clone the repository
